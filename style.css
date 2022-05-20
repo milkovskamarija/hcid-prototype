@@ -1,0 +1,29 @@
+.homepage{
+    background-image: url("Pictures/bg2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.info-right {
+    float: right;
+    margin-top: 15%;
+    margin-right: 11%;
+    text-align: center;
+}
+
+.gradient-custom-3 {
+    background: #6dc38d;
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+}
+
+.gradient-custom-4 {
+    background: #84fab0;
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+}
+
+img {
+    width: 90%;
+    height: 100%;
+}
