@@ -1,2 +1,2 @@
-# hcid-prototype
+# NutriTime Prototype 
 hcid-prototype
